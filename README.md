@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SashaRoyzman
-- 👀 I’m interested in machine learning, cryptocurrency, and cybersecurity
-- 🌱 I’m currently learning physics, philosophy of science, cognitive science, Python, and C++
+- 👀 I’m interested in machine learning, FDT, and dark matter detection.
+- 🌱 I’m currently learning physics, math, philosophy of science, cognitive science, Python, and C++
 - 💞️ I’m looking to collaborate on any of the above. 
 - 📫 How to reach me aroyzman@outlook.com
 
