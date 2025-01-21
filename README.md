@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @SashaRoyzman
-- 👀 I’m interested in machine learning, FDT, and dark matter detection.
-- 🌱 I’m currently learning physics, math, philosophy of science, cognitive science, Python, and C++
-- 💞️ I’m looking to collaborate on any of the above. 
-- 📫 How to reach me aroyzman@outlook.com
+- 👋 Hello, I’m @SashaRoyzman, or Alex.
+- 👀 I’m interested in probabilistic machine learning, materials informatics, and
+- 🌱 I studied physics, math, philosophy of science, and cognitive science at the University of Utah.
+- 📫 Reach me at aroyzman@outlook.com
 
 <!---
 SashaRoyzman/SashaRoyzman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
