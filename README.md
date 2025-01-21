@@ -1,4 +1,4 @@
-- 👋 Hello, I’m @SashaRoyzman, or Alex.
+- 👋 Hello, I’m Alex.
 - 👀 I’m interested in probabilistic machine learning, materials informatics, and
 - 🌱 I studied physics, math, philosophy of science, and cognitive science at the University of Utah.
 - 📫 Reach me at aroyzman@outlook.com
